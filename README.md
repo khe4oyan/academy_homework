@@ -1,1 +1,1 @@
-# academy_homework
+![banner](https://raw.githubusercontent.com/khe4oyan/repo_banners/main/banners/homework_page.png)
